@@ -11,8 +11,8 @@
 * tensorflow1.3需要[Cudnn6.0](https://developer.nvidia.com/cudnn)
 
 ### 2 Installation
-#### 2.1 检查你电脑上的显卡，Windows版本，Python版本
-#### 2.2 安装CUDA® Toolkit,注意要安装其中所带的显卡驱动
+#### 2.1 检查计算机上显卡，Windows版本，Python版本是否符合要求
+#### 2.2 安装CUDA® Toolkit，注意要安装其中所带的显卡驱动
 #### 2.3 安装Cudnn，要将其中的dll文件路径(比如```C:\cuda\bin```)加入环境变量
 #### 2.4 安装Tensorflow-gpu
 
