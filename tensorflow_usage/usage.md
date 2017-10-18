@@ -3,7 +3,7 @@
 ### 1 Prerequisites
 * tensorflow-gpu需要[CUDA Compute Capability 3.0或更高](https://developer.nvidia.com/cuda-gpus)
 的[Nvidia公司GPU](https://www.jd.com/)
-* tensorflow-gpu在Windows7上回出现奇怪的显卡卸载问题，
+* tensorflow-gpu在Windows7上会出现奇怪的显卡卸载问题，
 目前仅能在[Windows10](https://www.microsoft.com/zh-cn/software-download/windows10)上成功使用
 * tensorflow-gpu在Windows上需要[Python3.5/Python3.6](https://www.python.org/downloads/)
 * tensorflow1.3需要[CUDA® Toolkit 8.0](http://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/),
