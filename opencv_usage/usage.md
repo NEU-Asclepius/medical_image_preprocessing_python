@@ -9,3 +9,6 @@
 * 安装示例：
       
       pip install opencv_python-3.3.0-cp36-cp36m-win_amd64.whl
+### 3 非官方版本：
+      
+      pip install opencv_python
